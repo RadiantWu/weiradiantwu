@@ -20,9 +20,12 @@
 
 ## About Me:
 
-I pursued my undergraduate studies in Biomedical Engineering at the SES, [WNLO](https://wnlo.hust.edu.cn/) at Huazhong University of Science and Technology. My academic advisor was Prof. [Shangbin Chen](http://bmp.hust.edu.cn/info/1153/1391.htm).
-I am currently engaged in research work at BDBA, PKU, working with Prof. [Jinzhuo Wang](https://www.wangjinzhuo.com/)
+I pursued my undergraduate studies in Biomedical Engineering at the SES, [WNLO](https://wnlo.hust.edu.cn/), HUST. My academic advisor was Prof. [Shangbin Chen](http://bmp.hust.edu.cn/info/1153/1391.htm).
+
+I am currently engaged in research work at BDBA, PKU, working with Prof. [Jinzhuo Wang](https://www.wangjinzhuo.com/).
+
 I had a four month internship experience at CS, PKU, working with Prof.Shanghang Zhang.
+
 I primarily focused on utilizing advanced machine learning algorithms to address big data challenges in the field of biomedical engineering.
 
 ## Research Topics:
@@ -33,7 +36,17 @@ I primarily focused on utilizing advanced machine learning algorithms to address
 
 ## Award
 
-National 
+* The Interdisciplinary Contest in Modeling (ICM)  `Finalist`
+* Pacemaker to Merit Student  `Undergraduate Highest Honor`
+  
+  [Relevant WeChat Official Account Posts](https://mp.weixin.qq.com/s/VUXk93LI-Yz2FDGMq2OccA)
+* Outstanding Undergraduates in Term of Academic Performance
+  
+  [Relevant WeChat Official Account Posts](https://mp.weixin.qq.com/s/M-In4pO0GruPDEG8Bh41mQ)
+* National Scholarship 
+<p><a href="https://mp.weixin.qq.com/s/M-In4pO0GruPDEG8Bh41mQ"></a></p>
+
+  
 
 ## Contact:
 
